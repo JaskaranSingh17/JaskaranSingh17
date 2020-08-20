@@ -10,7 +10,6 @@ Know More about Me!!
 - 👯 I’m looking to collaborate on ... Nothing (Cause I am Learning Python)
 - 🤔 I’m looking for help with ... Python
 - 💬 Ask me about ... HTML and CSS
-- 📫 How to reach me: [Gmail](jaskaran.singh.170506@gmail.com)
-                     or [Youtube Channel](https://www.youtube.com/channel/UCcQtCxKZDzzNF90EIBusczQ)
+- 📫 How to reach me: Gmail - jaskaran.singh.170506@gmail.com or [Youtube Channel](https://www.youtube.com/channel/UCcQtCxKZDzzNF90EIBusczQ)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Keen Learner
