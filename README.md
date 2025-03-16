@@ -5,11 +5,10 @@
 
 Know More about Me!!
 
-- 🔭 I’m currently working on ...Youtube
-- 🌱 I’m currently learning ...Python
-- 👯 I’m looking to collaborate on ... Nothing (Cause I am Learning Python)
-- 🤔 I’m looking for help with ... Python
+- 🔭 I’m currently working on ...Studies
+- 🌱 I’m currently learning ...C++ (OOP)
+- 👯 I’m looking to collaborate on ... Projects
 - 💬 Ask me about ... HTML and CSS
-- 📫 How to reach me: Gmail - jaskaran.singh.170506@gmail.com or [Youtube Channel](https://www.youtube.com/channel/UCcQtCxKZDzzNF90EIBusczQ)
+- 📫 How to reach me: Gmail - jaskaran.singh.170506@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Keen Learner
